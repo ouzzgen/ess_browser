@@ -3,4 +3,4 @@ A simple web browser.
 </br>
 Not complete.
 </br>
-![Screenshot](my_ess_browser.png)
+![Screenshot](ess_browser.png)
