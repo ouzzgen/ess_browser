@@ -1,0 +1,1 @@
+Projenin adı: ESS Browser (Extensible small and speedy)
